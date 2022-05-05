@@ -1,0 +1,2 @@
+# gyrus
+Neural network library.
